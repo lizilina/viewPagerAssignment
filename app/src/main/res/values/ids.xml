@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="feedRecyclerView" type="id" />
+    <item name="storiesRecyclerView" type="id" />
+</resources>
